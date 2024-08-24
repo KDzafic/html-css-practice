@@ -32,3 +32,43 @@
 	letter-spacing: -2px;
 	font-weight: bold;
 }
+
+.image-container {
+    position: relative;
+    height: 700px;
+}
+
+.image-container img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+    height: 100%;
+}
+
+.overlay-text {
+    position: absolute;
+    top: 70%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: left;
+}
+
+.overlay-text p {
+    font-size: 15px;
+    font-weight: bold; 
+}
+
+.overlay-text button {
+    border-radius: 12px;
+    background-color:rgb(40, 62, 255);
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    transition: transform 0.2s ease;
+}
+
+.overlay-text button:hover {
+    transform: scale(1.1);
+}
