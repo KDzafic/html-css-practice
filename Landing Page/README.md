@@ -8,17 +8,29 @@ The landing page consists of a header that includes the title of the page and a 
 
 ## Development
 
-1. The first step was adding a header that includes the title of the page and a button that links to the shopping cart (no link included). The header is styled with a white background, centered text, and a button that changes slightly when hovered over.
+### First Step
+
+The first step was adding a header that includes the title of the page and a button that links to the shopping cart (no link included). The header is styled with a white background, centered text, and a button that changes slightly when hovered over.
 
 **Main Issue**:
 
 - **Button Stretching in Flex Container:** When adding the button inside the flex container, the button stretched to the height of the div, which wasn't the desired outcome. To fix this issue, specific CSS properties were applied to ensure that the button maintained its size while staying aligned with the header content.
 
-2. The next step was to add an image to the landing page. The image serves as a visual focal point and contains some information.
+### Second Step
+
+The next step was to add an image to the landing page. The image serves as a visual focal point and contains some information.
 
 **Main Issue**:
 
 - **Adding Text and Button Over the Image:** The main challenge here was positioning text and a button over the image. To achieve this, CSS techniques like `position: relative` for the image container and `position: absolute` for the text and button were used. This allowed for precise placement of the elements over the image while maintaining responsiveness.
+
+### Third Step
+
+The Final Step was adding some cards at the bottom of the page the indicate some information of our shop page.
+
+**Main Issue**:
+
+- **Creating cards:** The main issue was creating cards in a specific style.
 
 ### Prerequisites
 
@@ -35,3 +47,8 @@ Here's the structure of the project:
 ├── index.html
 └── style.css
 ```
+
+### Page Preview
+
+![Alt text](page_1.jpg)
+![Alt text](page_2.jpg)
