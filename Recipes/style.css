@@ -1,0 +1,81 @@
+body {
+    background-image: url("restaurant.webp");
+    background-repeat: repeat;
+  }
+
+  .wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white;
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.wrapper-receipe {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white;
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-receipe {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+ul {
+    list-style: none;
+    font-size: 150%;
+}
+
+li {
+    margin-bottom: 15px;
+    transition: 0.3s;
+}
+
+li:hover {
+    transform: scale(1.1);
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+img {
+    width: 520px;
+    height: 350px;
+}
+
+.receipe {
+    display: flex;
+    font-family: "Times New Roman";
+    margin: auto;
+}
+
+.receipe div {
+    padding:0;
+    margin-right: 5px;
+}
+
+.receipe p {
+    margin:0;
+    padding:0;
+}
+
