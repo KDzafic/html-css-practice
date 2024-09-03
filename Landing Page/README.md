@@ -2,6 +2,8 @@
 
 This project is a simple landing page built with HTML and CSS. It is based on a task from The Odin Project. The goal of this project is to practice and reinforce basic web development skills, including working with HTML structure and CSS styling.
 
+![brave_1IpRsqMGVl](https://github.com/user-attachments/assets/9bd9d122-333f-46c8-b90a-c60cf69ca9f0)
+
 ## Project Overview
 
 The landing page consists of a header that includes the title of the page and a button that links to the shopping cart. The header is styled with a white background, centered text, and a button that changes slightly when hovered over.
@@ -47,8 +49,3 @@ Here's the structure of the project:
 ├── index.html
 └── style.css
 ```
-
-### Page Preview
-
-![Alt text](page_1.jpg)
-![Alt text](page_2.jpg)
