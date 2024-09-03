@@ -2,6 +2,8 @@
 
 This is a simple HTML and CSS project demonstrating the parallax scrolling effect. The page contains three parallax sections with fixed background images that create a dynamic scrolling experience.
 
+![brave_yj3zrvoaEl](https://github.com/user-attachments/assets/ff04cbb3-6e6f-4d64-9bc3-9b839659bdeb)
+
 ## Project Structure
 
 The project consists of the following files:
