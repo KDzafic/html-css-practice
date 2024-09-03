@@ -2,6 +2,8 @@
 
 This is a simple HTML and CSS project for a fashion shop website. The webpage showcases a variety of products, an image banner, and a table displaying upcoming sales events.
 
+![brave_jF8MjiiYqB](https://github.com/user-attachments/assets/c944fe40-6d74-4e83-a373-c9d13bb3e59a)
+
 ## Project Structure
 
 The project consists of the following files:
