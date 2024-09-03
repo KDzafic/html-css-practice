@@ -2,6 +2,8 @@
 
 This is a simple HTML and CSS project for showcasing traditional recipes. The website includes a main page that links to individual recipe pages, with images and detailed instructions for preparing the dishes.
 
+![brave_2K5cZUPu08](https://github.com/user-attachments/assets/8cbf1d70-f15a-466b-8d01-55d16fd3105e)
+
 ## Project Structure
 
 The project consists of the following files:
