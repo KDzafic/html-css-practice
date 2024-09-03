@@ -2,6 +2,8 @@
 
 This project demonstrates the use of Flexbox in creating a responsive web layout with a header, sidebar, main content area, and footer.
 
+![image](https://github.com/user-attachments/assets/b0488768-8603-4e79-ba69-d97d683fe1c3)
+
 ## Project Structure
 
 The project consists of the following files:
